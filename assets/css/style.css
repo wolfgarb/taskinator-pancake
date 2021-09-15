@@ -120,6 +120,7 @@ footer {
 .task-type {
   color: var(--secondary);
   font-size: 1.55rem;
+  font-style: italic;
 }
 .task-actions {
   display: flex;
